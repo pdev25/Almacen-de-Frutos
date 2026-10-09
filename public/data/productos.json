@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "Nombre": "Almendras",
+    "Precio": 10000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/almendras.webp"
+  },
+
+  {
+    "id": 2,
+    "Nombre": "Avellanas",
+    "Precio": 8500,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/avellanas.webp"
+  },
+
+  {
+    "id": 3,
+    "Nombre": "Nueces",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/nueces.webp"
+  },
+
+  {
+    "id": 4,
+    "Nombre": "Mix de Semillas",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/mix_semillas.webp"
+  },
+
+  {
+    "id": 5,
+    "Nombre": "Pistachos Tostados",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/pistachos.webp"
+  },
+
+  {
+    "id": 6,
+    "Nombre": "Hongo de Pino",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/hongo.webp"
+  },
+
+  {
+    "id": 7,
+    "Nombre": "Maní Salado",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/mani2.webp"
+  },
+
+  {
+    "id": 8,
+    "Nombre": "Mix Tropical",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/mix_tropical.webp"
+  },
+
+  {
+    "id": 9,
+    "Nombre": "Miel",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/miel.webp"
+  },
+
+  {
+    "id": 10,
+    "Nombre": "Batido Proteico",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/batido.webp"
+  },
+
+  {
+    "id": 11,
+    "Nombre": "Mix con Chocolate",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/mix_choco.webp"
+  },
+
+  {
+    "id": 12,
+    "Nombre": "Castañas de Cajú",
+    "Precio": 2000,
+    "descripcion": "bdkbkrbi",
+    "imagen": "/castañas.webp"
+  }
+]
